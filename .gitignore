@@ -101,6 +101,7 @@ nosetests.xml
 coverage.xml
 *,cover
 .hypothesis/
+geckodriver.log
 
 # Translations
 *.mo
